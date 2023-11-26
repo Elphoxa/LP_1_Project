@@ -8,7 +8,7 @@ India has become a thriving hub for startups, attracting global attention with i
 ### Business Objective:
 The primary goal is to understand the correlation between the geographical location of startups in India and the funding they secure. ODYSSEY Inc. plans to analyze funding data from 2018 to 2021 to uncover patterns and trends. Specific objectives include geographical analysis, investigating funding patterns, assessing the impact of location on funding, and providing strategic insights to guide ODYSSEY Inc.'s decisions in the Indian startup ecosystem.
 
-##Hypothesis:
+## Hypothesis:
 Two hypotheses are formulated:
 
 * H0: Receiving more funds by startups in India is independent of their location.
